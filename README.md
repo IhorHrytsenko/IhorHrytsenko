@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IhorHrytsenko
 - 👀 I’m interested in live
-- 🌱 I’m currently learning HTML+CSS, JS, SQL
+- 🌱 I’m currently learning HTML+CSS, JS, SQL, React
 - 📫 How to reach me gisyshka@gmail.com
 
 <!---
